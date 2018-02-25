@@ -13,6 +13,8 @@ test25a.aim
 test25a.vtk
 tube.aim
 tube.vtk
+I0020002.M01
+I0020027.M01
 ```
 
 ### MECH_VAL_0001_A07131107.dcm
@@ -38,3 +40,10 @@ A binary image of a cylinder. Image data in AIM format.
 
 ### tube.vtk
 A binary image of a cylinder. Image data in VTK format.
+
+### I0020002.M01
+A pQCT image.
+
+### I0020027.M01
+Another pQCT image.
+
