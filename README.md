@@ -24,3 +24,4 @@ See http://bonelab.ucalgary.ca/ for more info on the Bone Imaging Laboratory.
 | `test25a_strain_yz_solved.n88model`   | Output of `n88directmechanics test25a.aim`, solved |
 | `test25a_strain_zx_solved.n88model`   | Output of `n88directmechanics test25a.aim`, solved |
 | `test25a_strain_zz_solved.n88model`   | Output of `n88directmechanics test25a.aim`, solved |
+| `test25a_uniaxial_coarse.n88model`    | Output of `n88coarsen test25a_uniaxial.n88model`, solved |
