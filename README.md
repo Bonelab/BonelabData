@@ -12,6 +12,7 @@ See http://bonelab.ucalgary.ca/ for more info on the Bone Imaging Laboratory.
 | `dicom`                               | A clinical CT image. |
 | `test25a.aim`                         | A small cube of cancellous bone. Useful for development. Image data in AIM format. |
 | `test25a.vtk`                         | A small cube of cancellous bone. Useful for development. Image data in VTK format. |
+| `test25a.nii`                         | A small cube of cancellous bone. Useful for development. Image data in nifti format. |
 | `tube.aim`                            | A binary image of a cylinder. Image data in AIM format. |
 | `tube.vtk`                            | A binary image of a cylinder. Image data in VTK format. |
 | `I0020002.M01`                        | A pQCT image. |
