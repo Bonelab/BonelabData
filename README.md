@@ -27,3 +27,4 @@ See http://bonelab.ucalgary.ca/ for more info on the Bone Imaging Laboratory.
 | `test25a_strain_zz_solved.n88model`   | Output of `n88directmechanics test25a.aim`, solved |
 | `test25a_uniaxial_coarse.n88model`    | Output of `n88coarsen test25a_uniaxial.n88model`, solved |
 | `D0010131.AIM`                        | Mid diaphysis of tibia HR-pQCT scan |
+| `COR_PD_3`                            | Coronal MR image of a knee |
